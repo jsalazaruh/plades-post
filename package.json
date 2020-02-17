@@ -1,0 +1,22 @@
+{
+  "name": "pladespost",
+  "version": "1.0.0",
+  "description": "chatting system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsalazaruh/plades-post.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Jonathan Salazar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsalazaruh/plades-post/issues"
+  },
+  "homepage": "https://github.com/jsalazaruh/plades-post#readme"
+}
